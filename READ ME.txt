@@ -1,0 +1,2 @@
+Para compilar no windows, verifique se o G++ está integrado no seu prompt de comando e execute o arquivo win_make.bat OU rode o comando g++ main.cpp -o "nome de executavel"
+Para compilar no linux, verifique se o G++ está instalado e execute o arquivo linux_make.sh no seu terminal.
